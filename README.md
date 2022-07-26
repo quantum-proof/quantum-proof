@@ -7,11 +7,12 @@
 ![](https://github.com/quantum-proof/quantum-proof/blob/main/banner.svg)
 
 
-* 💹   Interested in crypto, trading, and economics.
-* 💼   Research in econometrics and economics; topics of AI, blockchain, and growth.
+* 💹   Interested in economics, trading, and cryptocurrency.
+* 💼   Research in econometrics and economics; topics surrounding growth-nexus.
+* 📊   Bayesian inference > Frequentist inference
 * 🌱   Always learning statistics, Linux, and Solidity; likes R and Python. 
 * 👾   5 years of experience in statistical programming and analytics.
-* 📚   Conspicuous consumer of books.
+* 📚   Conspicuous consumer of books and novels.
 
 ---
 
