@@ -1,9 +1,19 @@
-### Hi there 👋
+
 
 <!--
 **quantum-proof/quantum-proof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-[]!()
+![](https://github.com/quantum-proof/quantum-proof/blob/main/banner.svg)
+
+Seeker ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
+
+* 💹   Interested in crypto, trading, and economics.
+* 💼   Research in econometrics and economics; topics of AI, blockchain, and growth.
+* 🌱   Always learning statistics, Linux, and Solidity; likes R and Python. 
+* 👾   5 years of experience in statistical programming and analytics.
+* 📚   Conspicuous consumer of books.
 
 ---
 
