@@ -6,8 +6,6 @@
 
 ![](https://github.com/quantum-proof/quantum-proof/blob/main/banner.svg)
 
-Seeker ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-
 
 * 💹   Interested in crypto, trading, and economics.
 * 💼   Research in econometrics and economics; topics of AI, blockchain, and growth.
