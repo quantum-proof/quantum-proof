@@ -8,7 +8,7 @@
 
 
 * 💹   Interested in economics, trading, and cryptocurrency.
-* 💼   Research in econometrics and economics; topics surrounding growth-nexus.
+* 💼   Academic in econometrics and economics; topics surrounding growth-nexus.
 * 📊   Bayesian inference > Frequentist inference
 * 🌱   Always learning statistics, Linux, and Solidity; likes R and Python. 
 * 👾   5 years of experience in statistical programming and analytics.
